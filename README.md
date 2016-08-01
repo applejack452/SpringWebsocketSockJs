@@ -1,7 +1,9 @@
 # SpringWebsocketSockJs
 
 <pre>
-Framework : SpringFramework 4.0
+SpringFramework 4.0
+BootStrap
+sockjs-0.3.4.js
 
 IDE : SpringSTS
 Build : Maven
